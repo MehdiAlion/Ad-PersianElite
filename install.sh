@@ -1,6 +1,4 @@
-#This Script id created by TermuxProfessor
-#Don't copy or modify code Read License First
-#Subscribe me on YouTube www.youtube.com/c/TermuxProfessor
+
 clear
 echo ""
 echo -e "         \e[1;91m__\e[1;92m,-\e[1;93m////\e[1;92m, "
